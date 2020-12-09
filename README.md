@@ -1,7 +1,9 @@
-# SORTER-LOG
+# SORTER-LOGS
 
-### Log Sorter is a program that sorts certain log data into a separate file.
+## Description.
 
-### First of all, the program will ask you to enter the full path to the folder containing the log archives. Next, you need to enter the full path to the folder where the TXT file with the data will be saved, for example: 'path \ name.that is, you need to enter the name of the already created file after the path, if it is not there, the program will create it automatically. Next, the program needs to enter the names of services separated by commas, the data of which you need to unload, for example: 'name1, name2ь or enter one name. An optional function is to enter an escape constant, or the field can be left blank.
+### SORTER LOGS is a program that sorts sampled log data (.rur) into a file (.txt).
 
-## Expect updates! Have a nice day!
+## Instruction.
+
+### First of all, you need to enter the path to the folder with archives (.rar). Next, enter the path to the file (.txt) or the path to the folder (the file will be created automatically), the data of the services you selected will be uploaded to it. Finally, enter one or more names in this form (service, service, service). Optional function - you can enter a constant that, when viewed in the service, the program will avoid it (if the function is not needed, leave the field blank).
